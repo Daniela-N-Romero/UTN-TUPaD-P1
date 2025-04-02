@@ -9,6 +9,7 @@ if edad >= 18:
 #ACTIVIDAD 2
 
 nota = int(input("Ingrese su nota: "))
+#aca se podria mejorar utilizando float como lo dice en las soluciones. 
 
 if nota >= 6:
     print("Aprobado")
@@ -44,7 +45,7 @@ else:
 password = input("Ingrese una contraseña entre 8 y 14 caracteres: ")
 
 #aqui verifico que la contraseña tenga entre 8 y 14 caracteres con la funcion len()
-if len(password) >= 8 and len(password) <= 14:
+if len(password) >= 8 and len(password) <= 14:     #Otra forma segun las soluciones es: 8 <= len(password) <= 14
     print("Ha ingresado una contraseña correcta.")
 else:
     print("Por favor, ingrese una contraseña entre 8 y 14 caracteres.")
@@ -104,6 +105,7 @@ else:
 #ACTIVIDAD 9
 
 magnitud = int(input("Ingrese la magnitud del terremoto: "))
+#aca se podria mejorar utilizando float como lo dice en las soluciones. 
 
 if magnitud < 3:
     print("Muy leve.")
