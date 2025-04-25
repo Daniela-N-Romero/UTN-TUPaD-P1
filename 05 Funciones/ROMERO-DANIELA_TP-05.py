@@ -2,7 +2,6 @@ import utils
 #modularize, y dividi el programa. La mayoria de la lógica está en utils.py
 
 #PROGRAMA PRINCIPAL
-
 #saludo al mundo
 utils.imprimir_hola_mundo()
 
