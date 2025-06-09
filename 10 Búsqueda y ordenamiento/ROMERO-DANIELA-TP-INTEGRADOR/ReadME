@@ -1,0 +1,12 @@
+Trabajo Práctico Integrador: Algoritmos de Búsqueda y Ordenamiento
+Este repositorio contiene el Trabajo Práctico Integrador de Programación I (TUPaD - UTN). El proyecto se centra en la implementación y análisis de algoritmos de búsqueda y ordenamiento en Python, con un programa que permite comparar su rendimiento con diferentes volúmenes de datos.
+
+Autores
+Daniela Nahir Romero (danielanahirromero@gmail.com)
+Juan Romero (noastranoa@outlook.es)
+Contenido
+TP PROGRAMACIÓN DANIELA ROMERO JUAN ROMERO.docx.pdf: Informe completo del trabajo.
+Código Python: Implementaciones de los algoritmos de búsqueda (Lineal, Binaria) y ordenamiento (Burbuja, Selección, Inserción, Quicksort) para experimentación interactiva y pruebas.
+Enlaces
+Video Explicativo: https://youtu.be/pGkJvdaKYZk
+Repositorio GitHub: https://github.com/Daniela-N-Romero/UTN-TUPaD-P1/new/main/10%20B%C3%BAsqueda%20y%20ordenamiento/ROMERO-DANIELA-TP-INTEGRADOR
